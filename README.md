@@ -1,1 +1,1 @@
-# stock-prediction-projrct
+# stock-prediction-project
